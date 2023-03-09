@@ -11,21 +11,21 @@
 
 
 github_info:
-    username:       DS4PS   # GitHub account name
+    username:       Laiyang9319   # GitHub account name
     branch:         master
-    website-repo:   intro-data-science-TEMPLATE
-    course-repo:    intro-data-science-TEMPLATE
+    website-repo:   Coding-in-R-for-Policy_Analytics
+    course-repo:    Coding-in-R-for-Policy_Analytics
  
 description:        Intro. course in data science
 
-url:                "https://ds4ps.github.io"
-baseurl:            "/intro-data-science-TEMPLATE"
-course_url:         "https://ds4ps.github.io/intro-data-science-TEMPLATE/"
-title:              ds4ps   # GitHub account name
+url:                "https://github.com/Laiyang9319"
+baseurl:            "/Coding-in-R-for-Policy-Analytics"
+course_url:         "https://github.com/Laiyang9319/Coding-in-R-for-Policy-Analytics"
+title:              Laiyang9319   # GitHub account name
 
 brand:
     image:          # logo.svg  # e.g. logo.png, upload logo image file to /assets/img/ folder
-    text:           "Intro to Data Science"    # if the above "logo:" image variable  is not set, this text logo is displayed instead
+    text:           "Coding in R for Policy Analytics"    # if the above "logo:" image variable  is not set, this text logo is displayed instead
 
 
 
