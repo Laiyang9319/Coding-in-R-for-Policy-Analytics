@@ -19,9 +19,9 @@ github_info:
 description:        Intro. course in data science
 
 # Site subpath, e.g. /blog
-url:                "https://github.com/Laiyang9319"
+url:                "https://laiyang9319.github.io"
 baseurl:            "/Coding-in-R-for-Policy-Analytics"
-course_url:         "https://github.com/Laiyang9319/Coding-in-R-for-Policy-Analytics"
+course_url:         "https://laiyang9319.github.io/Coding-in-R-for-Policy-Analytics/"
 title:              Laiyang9319   # GitHub account name
 
 brand:
