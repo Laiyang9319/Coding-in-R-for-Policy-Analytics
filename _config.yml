@@ -48,8 +48,8 @@ program-website:    "https://ds4ps.org/ms-prog-eval-data-analytics/courses/"
 ###
 
 author:
-    name:       Jamison Crawford
-    github:     jamisoncrawford   # Github username for avatar
+    name:       Laiyang Ke
+    github:     Laiyang9319   # Github username for avatar
 
 
 # app for scheduling virtual office hours appointments
@@ -67,12 +67,10 @@ calendly:      'https://calendly.com/jamisoncrawford/20min'
 header:
 - title: Syllabus
   url:
-- title: Schedule-V1
-  url: schedule-v2/
-- title: Schedule-V2
+- title: Course Schedule
   url: schedule/
-# - title: Textbook
-#   url: https://ds4ps.org/dp4ss/#dp4ss-data-programming-for-the-social-sciences
+- title: Textbook
+  url: https://ds4ps.org/dp4ss/
 - title: Review Sessions
   url: review/
 - title: Resources
