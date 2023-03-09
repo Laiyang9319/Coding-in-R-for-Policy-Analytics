@@ -18,6 +18,7 @@ github_info:
  
 description:        Intro. course in data science
 
+# Site subpath, e.g. /blog
 url:                "https://github.com/Laiyang9319"
 baseurl:            "/Coding-in-R-for-Policy-Analytics"
 course_url:         "https://github.com/Laiyang9319/Coding-in-R-for-Policy-Analytics"
@@ -25,7 +26,7 @@ title:              Laiyang9319   # GitHub account name
 
 brand:
     image:          # logo.svg  # e.g. logo.png, upload logo image file to /assets/img/ folder
-    text:           "Coding in R for Policy Analytics"    # if the above "logo:" image variable  is not set, this text logo is displayed instead
+    text:           "Coding in R"    # if the above "logo:" image variable  is not set, this text logo is displayed instead
 
 
 
@@ -66,13 +67,12 @@ calendly:      'https://calendly.com/jamisoncrawford/20min'
 
 header:
 - title: Syllabus
-  url:
+  url: 
 - title: Course Schedule
   url: schedule/
 - title: Textbook
   url: https://ds4ps.org/dp4ss/
-- title: Review Sessions
-  url: review/
+#  url: textbook/
 - title: Resources
   url: resources/
 - title: Get Help
