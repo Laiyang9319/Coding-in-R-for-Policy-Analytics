@@ -9,6 +9,10 @@
 ###  COURSE INFO
 ###
 
+# Site title and description
+title:              DS4PS
+description:        Intro. course in data-drive management
+
 
 github_info:
     username:       Laiyang9319   # GitHub account name
@@ -16,13 +20,14 @@ github_info:
     website-repo:   Coding-in-R-for-Policy-Analytics
     course-repo:    Coding-in-R-for-Policy-Analytics
  
-description:        Intro. course in data science
 
 # Site subpath, e.g. /blog
 url:                "https://laiyang9319.github.io"
 baseurl:            "/Coding-in-R-for-Policy-Analytics"
 course_url:         "https://laiyang9319.github.io/Coding-in-R-for-Policy-Analytics/"
-title:              Laiyang9319   # GitHub account name
+
+# Permalink URLs structure, for permalink style options see: https://jekyllrb.com/docs/permalinks/
+permalink:          /:title/
 
 brand:
     image:          # logo.svg  # e.g. logo.png, upload logo image file to /assets/img/ folder
