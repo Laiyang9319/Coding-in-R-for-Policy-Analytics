@@ -21,9 +21,9 @@ info:
  discussion_board_url: 'help/'
 
 instructor:
--  name: YOUR NAME
+-  name: Laiyang Ke
    title: Instructor
-   email: EMAIL@asu.edu
+   email: lke3@gsu.edu
    office_location:
    website_url: 'www.google.com'
    github_url:  'https://github.com/'
@@ -90,7 +90,7 @@ Data is an essential ingredient of any program evaluation or performance managem
 
 The course introduces students to the R data programming language, an open source platform that has become an industry standard because of its flexibility and power. It was designed to allow people to quickly develop and share new statistical tools. It has evolved into a more general data analytics platform that can be used for analytics, customized visualizations, GIS applications, text analysis, building web applications, and much more. It has a large and active user community that has developed thousands of free custom programs.
 
-Typically only 10-20% of a project is spent analyzing data. The other 80-90% consists of merging data sources, cleaning data, defining new variables, and arranging data into the proper format. These steps require knowledge about data wrangling as well as general project management process. The *Foundations of Data Science* sequence teaches both data programming fundamentals as well as project management skills to ensure that analysis is transparent, error-free, and reproducible.
+Typically only 10-20% of a project is spent analyzing data. The other 80-90% consists of merging data sources, cleaning data, defining new variables, and arranging data into the proper format. These steps require knowledge about data wrangling as well as general project management process. The Foundations of Data Science sequence teaches both data programming fundamentals as well as project management skills to ensure that analysis is transparent, error-free, and reproducible.
 
 The Foundations of Data Science course sequence will cover the fundamentals of data programming – building unique datasets using APIs and custom tools, importing data from the cloud, linking multiple data sources, and wrangling processes to clean, transform, and reshape datasets. Advanced topics will be introduced such as writing functions, running simulations, writing packages for R, and de-bugging techniques. We will spend roughly a third of the units on graphing procedures and reporting packages.
 
@@ -164,7 +164,7 @@ The online discussions are explicitly intended to meet the objectives stated abo
 
 ### Video Lectures
 
-Several videos are provided throughout the course. They are not mandatory viewing, however we have recently integrated them into the Course Schedule and elsewhere to provide an additional medium for audio-visual learning in demonstrating core concepts. We recommend reproducing the data analytic tasks you see while watching each in order to ensure retention. Video lectures are designed as a supplement and not intended for use in lieu of assigned reading. Take advantage of the bookmarks and timestamps to quickly navigate to topics of interest in each video and consider subscribing as new course content is published frequently.
+Several videos are provided throughout the course. They are not mandatory viewing, however we have recently integrated them into the Course Schedule and elsewhere to provide an additional medium for audio-visual learning in demonstrating core concepts. We recommend reproducing the data analytic tasks you see while watching each in order to ensure retention. Video lectures are designed as a supplement and not intended for use in lieu of assigned reading. Take advantage of the bookmarks and timestamps to quickly navigate to topics of interest in each video and consider subscribing as new course content is published from time to time.
 
 ## B. Assigned Reading Materials
 
@@ -229,14 +229,14 @@ The following criteria, description, and corresponding points are used to evalua
 
 ### Discussion Topics (10%)
 
-YellowDig discussion topics are used to introduce you to the data science ecosystem. Since this course focuses on the skill of learning data programming we cannot cover go in-depth into exciting resources and developments in the broad field of data science. The weekly discussion topics are a chance to explore some resources or reflect on a specific theme or article. We will use YellowDig discussion boards for this assignment. You earn points through your activities on the board. You need to earn at least 100 points by posting topics and interacting with peers in order to earn full credit. The points are allocated as follows:
+iCollege discussion topics are used to introduce you to the data science ecosystem. Since this course focuses on the skill of learning data programming we cannot cover go in-depth into exciting resources and developments in the broad field of data science. The weekly discussion topics are a chance to explore some resources or reflect on a specific theme or article. We will use iCollege discussion boards for this assignment. You earn points through your activities on the board. You need to earn at least 100 points by posting topics and interacting with peers in order to earn full credit. The points are allocated as follows:
 
   - **New Pins:** Creating a new pin with at least 50 words **(5 pts)**
   - **Comments Received:** Receiving a comment on your pin **(2 pts)**
   - **Comments Made:** Creating a comment on another pin **(2 pts)**
   - **Likes:** Liking another pin **(1 pt)**
 
-These points automatically update on *Canvas* and are manually updated on *iCollege*. The total grade is cumulative, reflecting points contributing to 100%. **A maximum of 20 points can be earned in each week's discussions.**  
+These points are manually updated on *iCollege*. The total grade is cumulative, reflecting points contributing to 100%. **A maximum of 20 points can be earned in each week's discussions.**  
 
 *Earning an "Instructor Badge" nets an additional 5 points.*
 
@@ -259,39 +259,39 @@ Grades for the course are largely based on weekly labs. Assigned work is accompa
 
 ## F. Course Communications and Instructor Feedback:
 
-**Course content** is hosted on this website. Lecture files, assignments and other course communications will be transmitted via this site and/or through the class email list. **All assignment submissions** will be made through the [**Canvas shell**](https://canvas.asu.edu/courses/88304).
+**Course content** is hosted on this website. Lecture files, assignments and other course communications will be transmitted via this site and/or through the class email list. **All assignment submissions** will be made through the [**iCollege course Shell**](https://canvas.asu.edu/courses/88304).
 
-Please post lab questions on the [**Get Help**](https://watts-college.github.io/cpp-526-fall-2021/help/) page on this site, schedule individual office hours using the Calendly link provided above, and email the instructor directly instead of using the Canvas system.
+Please post lab questions on the [**Get Help**](https://watts-college.github.io/cpp-526-fall-2021/help/) page on this site, schedule individual office hours using the Calendly link provided above, and email the instructor directly instead of using the iCollege system.
 
 Students should be aware that the course instructor will attempt to respond to any course-related email as quickly as possible. Students are asked to allow between 24 and 48 hours for replies to direct instructor emails, generally, as a reasonable time to reply to questions or other issues posed in an email. Additionally, the general timeline for instructor grading or other feedback on assignments, either writer work or online discussion work, is between 5 and 10 work days.
 
 ## G. Student Conduct: Expectation of Professional Behavior
 
-Respectful conversations and tolerance of others&#39; opinions will be strictly enforced. Any inappropriate language, threatening, harassing, or otherwise inappropriate behavior during discussion could result in the student(s) being administratively dropped from the course with no refund, per [**ASU Policy USI 201-10**](http://www.asu.edu/aad/manuals/usi).
+Respectful conversations and tolerance of others' opinions will be strictly enforced. Any inappropriate language, threatening, harassing, or otherwise inappropriate behavior during discussion could result in the student(s) being administratively dropped from the course.
 
-Students are required to adhere to the behavior standards listed in the [**Arizona Board of Regents Policy Manual Chapter V: Campus and Student Affairs**](http://azregents.asu.edu/rrc/Policy%20Manual/5-308-Student%20Code%20of%20Conduct.pdf) .
+For more information, refer to Georgia State University's [**Student Code of Conduct**](http://azregents.asu.edu/rrc/Policy%20Manual/5-308-Student%20Code%20of%20Conduct.pdf) .
 
 # H. Academic Integrity and Honesty
 
-ASU expects the highest standards of academic integrity. Violations of academic integrity include but are not limited to cheating, plagiarism, fabrication, etc. or facilitating any of these activities. This course relies heavily on writing and original critical thought. Any student who is suspected of not producing his or her own original work will be reported to the College of Public Programs for investigation.
+GSU expects the highest standards of academic integrity. Violations of academic integrity include but are not limited to cheating, plagiarism, fabrication, etc. or facilitating any of these activities. This course relies heavily on writing and original critical thought. Any student who is suspected of not producing his or her own original work will be reported to the College of Public Programs for investigation.
 
 **Plagiarism will not be tolerated**. **Any student who plagiarizes or fabricates her or his work will receive no credit the assignment. Additional disciplinary action following investigation may occur at the discretion of the instructor, up to and including course failure.**
 
-For more information, refer to the [**Office of the Provost's Guide to Academic Integrity**](http://provost.asu.edu/academicintegrity).
+For more information, refer to Georgia State University's [**Academic Honesty Guidelines**](http://provost.asu.edu/academicintegrity).
 
 # I. Student Learning Environment: Accommodations
 
-**Disability Accommodations:**  Students should be fully aware that the Arizona State University, the MA in EMHS program, and all program course instructors are committed to providing reasonable accommodation and access to programs and services to persons with disabilities. Students with disabilities who wish to seek academic accommodations must contact the ASU Disability Resources Center directly.  Information on the Center&#39;s procedures, resources and how to contact its staff can be found at the [**Disability Resource Center**](https://eoss.asu.edu/drc/).  The Disability Resources Center is responsible for reviewing any student&#39;s requests; once that review has taken place, the Center will provide the student with appropriate information on academic accommodations which in turn will be provided to the course instructor.
+**Disability Accommodations:**  If you have any condition, such as a physical or mental disability, which will make it difficult for you to carry out the work as outlined above or which will require extra time on assignments, please notify us in the first two weeks of the course so that we may make appropriate arrangements. Students who wish to request accommodation for a disability may do so by registering with the GSU Access & Accommodations Center (AACE). Students may only be accommodated upon issuance of a signed Accommodation Plan by AAACE. Students are responsible for providing a copy of that plan to instructors of all classes in which an accommodation is sought.
 
 **Religious accommodations:** Students will not be penalized for missing an assignment due solely to a religious holiday/observance, but as this class operates with a fairly flexible schedule, all efforts should be made to complete work within the required timeframe. If this is not possible, students must notify the instructor as far in advance as possible in order to make an alternative arrangement.
 
-**Military Accommodations:** A student who is a member of the National Guard, Reserve, or other branch of the armed forces and is unable to complete classes because of military activation may request complete or partial unrestricted administrative withdrawals or incompletes depending on the timing of the activation. For more information see [**ASU Policy USI 201-18**](http://www.asu.edu/aad/manuals/usi).
+**Military Accommodations:** A student who is a member of the National Guard, Reserve, or other branch of the armed forces and is unable to complete classes because of military activation may request complete or partial unrestricted administrative withdrawals or incompletes depending on the timing of the activation. Please notify the instructor as soon as you are aware of a potential activation.
 
 # IV. Course Schedule
 
 ## A. Schedule: Overview of Readings and Assignments
 
-As students are all aware, ASU Online courses are typically offered on a seven and a half week schedule. A schedule for each week of the term is outlined in the Course Schedule; the course is divided into seven units with specific learning objectives for each unit.
+A schedule for each week of the Summer, 2023 term is outlined in the Course Schedule; the course is divided into seven units with specific learning objectives for each unit.
 
 **Note:** The course instructor may from time to time adjust assigned readings or adjust the due dates for assignment. The basic course content approach and learning objectives will not change, but slight modifications are possible if circumstances warrant an adjustment.
 
