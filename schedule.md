@@ -9,27 +9,27 @@ canvas:
   yellowdig_url: 'https://canvas.asu.edu/courses/92494/assignments/2358903'
 
 lab-due-dates:
-  lab-01: 'WED August 25'
-  lab-02: 'WED September 1'
-  lab-03: 'WED September 8'
-  lab-04: 'WED September 15'
-  lab-05: 'WED September 22'
-  lab-06: 'WED September 29'
+  lab-01: 'SUN June 11'
+  lab-02: 'SUN June 18'
+  lab-03: 'SUN Jun 25'
+  lab-04: 'SUN July 2'
+  lab-05: 'SUN July 9'
+  lab-06: 'SUN July 16'
 
 discussion-dates:
-  topic-00: 'MON August 23'
-  topic-01: 'FRI August 27'
-  topic-02: 'FRI September 3'
-  topic-03: 'FRI September 10'
-  topic-04: 'FRI September 17'
-  topic-05: 'FRI September 24'
-  topic-06: 'FRI October 1'
-
-final-project:
-  due-date: 'WED October 6'
+  topic-00: 'Due WED June 7'
+  topic-01: 'FRI June 9'
+  topic-02: 'FRI June 16'
+  topic-03: 'FRI June 23'
+  topic-04: 'FRI June 30'
+  topic-05: 'FRI July 7'
+  topic-06: 'FRI July 14'
 
 code-through:
-  due-date: 'WED October 6'
+  due-date: 'FRI July 21'
+
+final-project:
+  due-date: 'MON July 24'
 
 ---
 
