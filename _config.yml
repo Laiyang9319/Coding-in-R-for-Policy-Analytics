@@ -30,7 +30,7 @@ course_url:         "https://laiyang9319.github.io/Coding-in-R-for-Policy-Analyt
 permalink:          /:title/
 
 brand:
-    image:          # logo.svg  # e.g. logo.png, upload logo image file to /assets/img/ folder
+    image:           # e.g. logo.png, upload logo image file to /assets/img/ folder
     text:           "Coding in R"    # if the above "logo:" image variable  is not set, this text logo is displayed instead
 
 
@@ -39,9 +39,9 @@ brand:
 ###  YOUR PROGRAM INFO
 ###
 
-program-logo:       "logo-gsu.png"
+program-logo:       "gsu-logo.png"
 
-program-website:    "https://ds4ps.org/ms-prog-eval-data-analytics/courses/"
+program-website:    
 
      
 
@@ -58,10 +58,6 @@ author:
     github:     Laiyang9319   # Github username for avatar
 
 
-# app for scheduling virtual office hours appointments
-
-calendly:      'https://calendly.com/jamisoncrawford/20min'
-
 
 
 
@@ -75,11 +71,12 @@ header:
   url: 
 - title: Course Schedule
   url: schedule/
-- title: Textbook
-  url: https://ds4ps.org/dp4ss/
-#  url: textbook/
+#- title: Textbook
+#  url: https://ds4ps.org/dp4ss/
 - title: Resources
   url: resources/
+- title: Lab Templates
+  url: templates/
 - title: Get Help
   url: help/
 
