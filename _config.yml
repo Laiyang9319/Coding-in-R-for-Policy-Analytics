@@ -9,44 +9,28 @@
 ###  COURSE INFO
 ###
 
-# Site title and description
-title:              DS4PS
-description:        Intro. course in data-drive management
-
 
 github_info:
     username:       Laiyang9319   # GitHub account name
-    branch:         master
     website-repo:   Coding-in-R-for-Policy-Analytics
     course-repo:    Coding-in-R-for-Policy-Analytics
  
+description:        Coding in R for Policy Analytics 
 
-# Site subpath, e.g. /blog
-url:                "https://laiyang9319.github.io"
-baseurl:            "/Coding-in-R-for-Policy-Analytics"
-course_url:         "https://laiyang9319.github.io/Coding-in-R-for-Policy-Analytics/"
-
-# Permalink URLs structure, for permalink style options see: https://jekyllrb.com/docs/permalinks/
-permalink:          /:title/
+course_url:         "https://Laiyang9319.github.io/Coding-in-R-for-Policy-Analytics"
+title:              Laiyang9319   # GitHub account name
 
 brand:
-    image:           # e.g. logo.png, upload logo image file to /assets/img/ folder
+    image:          # e.g. logo.png, upload logo image file to /assets/img/ folder
     text:           "Coding in R"    # if the above "logo:" image variable  is not set, this text logo is displayed instead
-
-
 
 ###
 ###  YOUR PROGRAM INFO
 ###
 
-program-logo:       "gsu-logo1.png"
+program-logo:       "gsu-logo.png"
 
 program-website:    
-
-     
-
-
-
     
       
 ###
@@ -60,19 +44,17 @@ author:
 
 
 
-
-
 ###
 ### NAVIGATION BAR
 ###
 
 header:
 - title: Syllabus
-  url: 
-- title: Course Schedule
+  url:
+- title: Schedule
   url: schedule/
-#- title: Textbook
-#  url: https://ds4ps.org/dp4ss/
+# - title: Textbook
+#   url: https://ds4ps.org/dp4ss/#dp4ss-data-programming-for-the-social-sciences
 - title: Resources
   url: resources/
 - title: Lab Templates
