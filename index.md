@@ -4,47 +4,32 @@ title: Syllabus
 
 index:
     title: Coding in R for Policy Analytics
-    image: data-science.png
-    subtitle: This course introduces students to the field of data science and its applications in the public and nonprofit sectors. Modern performance management and evaluation processes require strong data literacy and the ability to combine and analyze data from a variety of sources to inform managerial processes. This course offers a practical, tools-based approach that is designed to build strong foundations for people that want to work as analysts, data-driven managers, or data-driven journalists. It will cover data programming fundamentals, visualization, text analysis, automated reporting, and dynamic reporting using dashboards. The course is analytically rigorous, but no prior programming experience is assumed.
+    image: r-logo.png
+    subtitle: This course introduces students to the field of data science and its applications using the R data programming language, an open source platform that has become an industry standard because of its flexibility and power. Modern performance management and evaluation processes require strong data literacy and the ability to combine and analyze data from a variety of sources to inform managerial processes. This course offers a practical, tools-based approach that is designed to build strong foundations for people that want to work as analysts, data-driven managers, or data-driven journalists. The course will cover data programming fundamentals, visualization, text analysis, automated reporting, and dynamic reporting using dashboards. The course is analytically rigorous, but no prior programming experience is assumed.
 
 info:
- program_title: AYS Digital Landscape Initiative
- program_website: 'https://aysps.gsu.edu/digital-landscape/'
  course_title: Coding in R for Policy Analytics
- course_number: ECON 8000 / PMAP 8921 / CRJU 8830
+ course_number: ECON 8730 / PMAP 8541 / CRJU 8900
  course_level: Graduate
- course_website: 'https://gastate.view.usg.edu/d2l/home/2578896'
- course_start_end_dates: August 19 - October 8, 2021
+ course_website: 'https://gastate.view.usg.edu/d2l/home/2822294'
+ course_start_end_dates: June 5 - July 31, 2023
  course_prerequisites:  
- class_meets_when:  Asynchronous  
- class_meets_where:  Online
- discussion_board_url: 'help/'
+ class_meets_when:  Online Asynchronous  
+ class_meets_where:  Online Asynchronous 
 
 instructor:
 -  name: Laiyang Ke
    title: Instructor
    email: lke3@gsu.edu
-   office_location:
-   website_url: 'www.google.com'
-   github_url:  'https://github.com/'
-   twitter_url:
-   scholar_url: 'https://scholar.google.com/citations?user=YA43PbsAAAAJ&hl=en&oi=ao'
-   linked_in_url:
-   office_hours_time: See Schedule
-   office_hours_app_url: 'https://calendly.com'
-   office_hours_location: 'Zoom' 
--  name: Other Name
-   title: Teaching Assistant
-   email: EMAIL@asu.edu
-   office_location:
-   website_url: 'www.google.com'
-   github_url:  
-   twitter_url:
-   scholar_url: 
-   linked_in_url:
-   office_hours_time: 'Wednesday 3-5pm'
-   office_hours_app_url: 'https://calendly.com'
-   office_hours_location: Zoom
+   #office_location:
+   #website_url: 'www.google.com'
+   #github_url:  'https://github.com/'
+   #twitter_url:
+   #scholar_url: 'https://scholar.google.com/citations?user=YA43PbsAAAAJ&hl=en&oi=ao'
+   #linked_in_url:
+   office_hours_time: Thursday 1:00-2:00 pm or by Appointment (email)
+   office_hours_app_url: 'https://gsumeetings.webex.com/gsumeetings/j.php?MTID=m84cb2d462d291bf4e17b08c13d9019c3'
+   #office_hours_location: 'Zoom' 
 
 textbooks:
 - title: R Cookbook, 2nd Edition
@@ -52,10 +37,10 @@ textbooks:
   edition: 2019
   link: https://rc2e.com/
   required: Not Required
-- title: R for Data Science
+- title: R for Data Science, 2nd Edition
   authors: Wickham, H., & Grolemund, G.
   edition: Free Online
-  link: http://r4ds.had.co.nz/
+  link: https://r4ds.hadley.nz/
   required: Not Required
 - title: The Art of Data Science
   authors: Peng, R. D., & Matsui, E.
@@ -96,7 +81,7 @@ The Foundations of Data Science course sequence will cover the fundamentals of d
 
 ## C. Course Objectives
 
-This course, Foundations of Data Science I, will cover the building blocks of data programming in R. We will learn about variables, operators, functions, dataset construction, group structure in data, visualization, and simulation. Students will also be introduced to markdown documents and automated reporting.
+This course, Introduction to Data Science, will cover the building blocks of data programming in R. We will learn about variables, operators, functions, dataset construction, group structure in data, visualization, and simulation. Students will also be introduced to markdown documents and automated reporting.
 
 The five main learning objectives for the course are:
 
@@ -172,7 +157,7 @@ We will use a custom textbook for this course available. Visit the [**Course Tex
 
 The following texts are recommended as good reference material for topics covered in this course:
 
-* Wickham, H., &amp; Grolemund, G. (2016). _R for Data Science._ O&#39;Reilly Press.
+* Wickham, H., &amp; Grolemund, G. (2022). _R for Data Science._ 2nd Edition. O&#39;Reilly Press.
 * Teetor, P. (2011). _R Cookbook: Proven recipes for data analysis, statistics, and graphics_. O&#39;Reilly Media.  
 * Sanchez, G. (2013). _Handling and processing strings in R._ Berkeley: Trowchez Editions.
 * Peng, R. D., &amp; Matsui, E. (2015). _The Art of Data Science._ Skybrude Consulting, 200, 162.  
@@ -214,7 +199,7 @@ The following criteria, description, and corresponding points are used to evalua
 
 **Note:** Proper in-line and closing attribution of works cited is mandatory. See III. A. for more information.
 
-### Final Dashboard Project (30%)  
+### Final Dashboard Project (40%)  
 
 This course will close with a final project that requires you to transform data and allow the exploration of new insights using interactive mechanisms in a pre-built data dashboard. It is designed to give you practice integrating material the we have covered throughout the course with latitude to implement creativity and your own data product style.
 
@@ -229,7 +214,7 @@ The following criteria, description, and corresponding points are used to evalua
 
 ### Discussion Topics (10%)
 
-iCollege discussion topics are used to introduce you to the data science ecosystem. Since this course focuses on the skill of learning data programming we cannot cover go in-depth into exciting resources and developments in the broad field of data science. The weekly discussion topics are a chance to explore some resources or reflect on a specific theme or article. We will use iCollege discussion boards for this assignment. You earn points through your activities on the board. You need to earn at least 100 points by posting topics and interacting with peers in order to earn full credit. The points are allocated as follows:
+iCollege discussion topics are used to introduce you to the data science ecosystem. Since this course focuses on the skill of learning data programming we cannot cover go in-depth into exciting resources and developments in the broad field of data science. The weekly discussion topics are a chance to explore some resources or reflect on a specific theme or article. We will use iCollege discussion boards for this assignment. You earn points through your activities on the board. You need to earn at least 100 points  (out of a total of 140 points)  by posting topics and interacting with peers in order to earn full credit. The points are allocated as follows:
 
   - **New Pins:** Creating a new pin with at least 50 words **(5 pts)**
   - **Comments Received:** Receiving a comment on your pin **(2 pts)**
@@ -259,17 +244,15 @@ Grades for the course are largely based on weekly labs. Assigned work is accompa
 
 ## F. Course Communications and Instructor Feedback:
 
-**Course content** is hosted on this website. Lecture files, assignments and other course communications will be transmitted via this site and/or through the class email list. **All assignment submissions** will be made through the [**iCollege course Shell**](https://canvas.asu.edu/courses/88304).
+**Course content** is hosted on this website. Lecture files, assignments and other course communications will be transmitted via this site and/or through the class email list. **All assignment submissions** will be made through the [**iCollege course Shell**](https://gastate.view.usg.edu/d2l/home/2822294).
 
-Please post lab questions on the [**Get Help**](https://watts-college.github.io/cpp-526-fall-2021/help/) page on this site, schedule individual office hours using the Calendly link provided above, and email the instructor directly instead of using the iCollege system.
+Please post lab questions on the [**Get Help**](https://laiyang9319.github.io/Coding-in-R-for-Policy-Analytics/help/) page on this site, schedule individual office hours, and email the instructor directly.
 
 Students should be aware that the course instructor will attempt to respond to any course-related email as quickly as possible. Students are asked to allow between 24 and 48 hours for replies to direct instructor emails, generally, as a reasonable time to reply to questions or other issues posed in an email. Additionally, the general timeline for instructor grading or other feedback on assignments, either writer work or online discussion work, is between 5 and 10 work days.
 
 ## G. Student Conduct: Expectation of Professional Behavior
 
-Respectful conversations and tolerance of others' opinions will be strictly enforced. Any inappropriate language, threatening, harassing, or otherwise inappropriate behavior during discussion could result in the student(s) being administratively dropped from the course.
-
-For more information, refer to Georgia State University's [**Student Code of Conduct**](http://azregents.asu.edu/rrc/Policy%20Manual/5-308-Student%20Code%20of%20Conduct.pdf) .
+Respectful conversations and tolerance of others' opinions will be strictly enforced. Any inappropriate language, threatening, harassing, or otherwise inappropriate behavior during discussion could result in the student(s) being administratively dropped from the course with no refund. Students are required to adhere to the behavior standards listed in the GSU Sudent Code of Conduct.
 
 # H. Academic Integrity and Honesty
 
@@ -277,7 +260,7 @@ GSU expects the highest standards of academic integrity. Violations of academic 
 
 **Plagiarism will not be tolerated**. **Any student who plagiarizes or fabricates her or his work will receive no credit the assignment. Additional disciplinary action following investigation may occur at the discretion of the instructor, up to and including course failure.**
 
-For more information, refer to Georgia State University's [**Academic Honesty Guidelines**](http://provost.asu.edu/academicintegrity).
+For more information, refer to the GSU Student Code of Conduct.
 
 # I. Student Learning Environment: Accommodations
 
