@@ -185,19 +185,6 @@ The assigned work for the term comes in the form of four elements, described bel
 
 Each week you will receive a short lab that will help you synthesize the lectures from the week though exercises that involve data, analysis, and important formulas from the lectures. These labs contain exercises that are similar in form or difficulty to what will be presented on the final exam. **They are graded pass / fail** by the instructors based upon an assessment of whether you have sincerely attempted the lab and answered over half of the questions correctly. This is designed to hold you accountable for the material, but not create anxiety about perfection.
 
-### Code-Through Assignment (10%)
-
-You will pick one topic from the class that you want to learn more about, or that you think might provide value to your classmates. Create a short tutorial to make your topic accessible to your peers. It can be a blog post, a video, a GIF, or a tutorial that explains an important concept from data programming, presents a helpful framework, illustrates a useful R tool or approach to data programming, or introduces classmates to a new package or function.
-
-The following criteria, description, and corresponding points are used to evaluate the project (10 points total):
-
-  - **Novelty & Value:** Focuses on a new, valuable topic or expansion of existing course material (**2 pts**)
-  - **Exposition:** Topic is thoroughly explained, e.g. purpose, theory, framework, etc. (**2 pts**)
-  - **Appearance:** Consistent code conventions and style; proper spelling, formatting, etc. (**2 pts**)
-  - **Demonstration:** Includes examples of application and relevance; 75% or more is original (**2 pts**)
-  - **Resources:** Topic-related resources are provided, described, and organized (**2 pts**)
-
-**Note:** Proper in-line and closing attribution of works cited is mandatory. See III. A. for more information.
 
 ### Final Dashboard Project (40%)  
 
