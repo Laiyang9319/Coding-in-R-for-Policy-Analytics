@@ -505,7 +505,7 @@ This assignment requires some combination of the following functions and operato
 
 ### Practice Data
 
-This assignment uses Downtown Syracuse tax parcel data. View the documentation **[here](../labs/syr_parcels.html)**.
+This assignment uses Downtown Syracuse tax parcel data. View the documentation **[here](../units/02-operators-and-descriptives/lab-02-data-dictionary.html)**.
 
 These data are imported using the following code.
 
