@@ -752,9 +752,9 @@ So ignoring potential problems with big and open data for now, read about two in
 
 > For your discussion topic this week, find one data-driven blog post from Ben Wellington's [I Quant NY](http://iquantny.tumblr.com/) and/or OK Cupid's [OK Trends](https://theblog.okcupid.com/tagged/data) where you discovered something cool that you did not know, and share it with the group. In your post highlight what is interesting about the example, and what data made it possible.
 
-**Please post your reflection as a new pin on YellowDig.**
+**Please post your reflection as a new pin on iCollege.**
 
-<a class="uk-button uk-button-primary" href="{{page.canvas.yellowdig_url}}">Post to Yellowdig</a>
+<a class="uk-button uk-button-primary" href="{{page.canvas.yellowdig_url}}">Post to iCollege</a>
 
 <br>
 
@@ -764,9 +764,9 @@ You can also check out Ben's [Ted Talk](https://www.youtube.com/watch?v=6xsvGYIx
 
 <br>
 
-**Note:** You get points on Yellowdig by interacting with content. That means creating new posts and participating in posts that your classmates create. Your Yellowdig posts are due on Friday, but you gain points throughout the week by participating in discussions.
+**Note:** You get points on iCollege by interacting with content. That means creating new posts and participating in posts that your classmates create. Your iCollege posts are due on Wednesday, but you gain points throughout the week by participating in discussions.
 
-You can earn up to 20 points a week, and points reset on Fridays. You need to earn 100 points throughout the seven-week term, which means averaging 15 points a week.
+You can earn up to 20 points per topic. You need to earn 100 points across the 7 topics, which means averaging 15 points per topic.
 
 <br>
 <br>
@@ -1780,7 +1780,7 @@ The following checklist will help you stay organized for your final week.
 
 <br>
 
-*** { @unit = "{{page.code-through.due-date}}", @title = "Code-Through Project", @assignment, @foldout  }
+*** { @unit = "{{page.final-project.due-date}}", @title = "Final Dashboard Project", @assignment, @foldout  }
 
 <br>
 
