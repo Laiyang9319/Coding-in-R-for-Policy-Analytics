@@ -933,8 +933,7 @@ The following checklist will help you stay organized in your second week.
 
 - [ ] Complete Assigned Readings: [Group Construction with Logical Statements](http://ds4ps.org/dp4ss-textbook/p-050-business-logic.html)
 - [ ] Post & Exchange on Discussion Topic, 20 Points Max (See Below)
-- [ ] Complete & Submit [Lab 02](../labs/lab-02-instructions.html) (See Below)
-- [ ] (Recommended) Explore Packages for [Code Through Project](../labs/code-through-assignment.html)
+- [ ] Complete & Submit [Lab 02](../units/02-operators-and-descriptives/lab-02-instructions.html) (See Below)
 - [ ] (Recommended) Videos
 
 <br>
@@ -969,9 +968,9 @@ Take note, this assignment asks you to explore a new community where the technic
 
 <br>
 
-**Please post your reflection as a new pin on YellowDig:**
+**Please post your reflection as a new pin on iCollege:**
 
-<a class="uk-button uk-button-primary" href="{{page.canvas.yellowdig_url}}">YELLOWDIG</a>
+<a class="uk-button uk-button-primary" href="{{page.canvas.yellowdig_url}}">iCollege</a>
 
 <br>
 <br>
@@ -997,13 +996,16 @@ The rest of the chapter is useful information to come back to, but not needed fo
 
 *Similar to last week, the chapter highlights some easy ways to make errors with your code. We don't want to convince you that R is hard, but rather to ensure that you are paying attention to some subtle features of machine language that can impact your data.*
 
-<a class="uk-button uk-button-default" onclick="window.open('../labs/lab-02-instructions.html')">LAB-02 Instructions</a>
+<a class="uk-button uk-button-default" onclick="window.open('../units/02-operators-and-descriptives/lab-02-instructions.html')">LAB-02 Instructions</a>
 
 Click to download the lab template. Modify and submit using the instructions.
 
-<a class="uk-button uk-button-default" onclick="window.open('../labs/cpp-526_reformatted-labs/Lab-02-LastName.zip?raw=true')">LAB-02 Template</a>
+<a class="uk-button uk-button-default" 
+   onclick="window.open('https://raw.githubusercontent.com/{{ site.github.owner_name }}/{{ site.github.repository_name }}/main/units/02-operators-and-descriptives/lab-02-template.rmd')">
+   LAB-02 Template
+</a>
 
-## Submit Solutions to Canvas
+## Submit Solutions to iCollege
 
 <a class="uk-button uk-button-primary" href="{{page.canvas.assignment_url}}">SUBMIT LAB</a>
 
@@ -1133,7 +1135,7 @@ The following checklist will help you stay organized in your third week.
 
 - [ ] Complete Assigned Readings: [The plot() Function](http://ds4ps.org/dp4ss-textbook/p-061-plot-basics.html) & [Building Custom Graphics](http://ds4ps.org/dp4ss-textbook/p-062-customized-graphics.html)
 - [ ] Post & Exchange on Discussion Topic, 20 Points Max (See Below)
-- [ ] Complete & Submit [Lab 03](../labs/lab-03-instructions.html) (See Below)
+- [ ] Complete & Submit [Lab 03](../units/03-data-viz-static/lab-03-v2-instructions.RMD) (See Below)
 - [ ] (Recommended) Read [Intro. to Data Viz](http://ds4ps.org/dp4ss-textbook/p-060-intro-to-data-viz.html)
 
 <br>
@@ -1153,7 +1155,7 @@ For example, I might say that I work creating budgets for a government organizat
 
 You will find sites like the [R Graphs Gallery](https://www.r-graph-gallery.com/) and [The Data Viz Project](https://datavizproject.com/) helpful.
 
-<a class="uk-button uk-button-primary" href="{{page.canvas.yellowdig_url}}">YELLOWDIG</a>
+<a class="uk-button uk-button-primary" href="{{page.canvas.yellowdig_url}}">iCollege</a>
 
 <br>
 <br>
@@ -1174,13 +1176,20 @@ We recommend you **skim** the chapters on graphing functions and custom graphics
 
 Code is provided to get you started, but you will have to use documentation and the web to push the boundaries of your new knowledge of these functions.
 
-<a class="uk-button uk-button-default" onclick="window.open('../labs/lab-03-instructions.html')">LAB-03 Instructions</a>
+<a class="uk-button uk-button-default" onclick="window.open('../units/03-data-viz-static/lab-03-v1-instructions.html')">LAB-03 v1 Instructions</a>
+<!--
+<a class="uk-button uk-button-default" onclick="window.open('../units/03-data-viz-static/lab-03-v2-instructions.html')">LAB-03 v2 Instructions</a>
+-->
 
 Click to download the lab template. Modify and submit using the instructions.
 
-<a class="uk-button uk-button-default" onclick="window.open('../labs/cpp-526_reformatted-labs/Lab-03-LastName.zip?raw=true')">LAB-03 Template</a>
+<a class="uk-button uk-button-default" 
+   onclick="window.open('https://raw.githubusercontent.com/{{ site.github.owner_name }}/{{ site.github.repository_name }}/main/units/03-data-viz-static/lab-03-v1-template.rmd')">LAB-03 v1 Template</a>
+<!--
+<a class="uk-button uk-button-default" onclick="window.open('../units/03-data-viz-static/lab-03-v2-template.rmd')">LAB-03 v2 Template</a>
+-->
 
-## Submit Solutions to Canvas
+## Submit Solutions to iCollege
 
 <a class="uk-button uk-button-primary" href="{{page.canvas.assignment_url}}">SUBMIT LAB</a>
 
@@ -1325,7 +1334,7 @@ The following checklist will help you stay organized in your fourth week.
 
 - [ ] Complete Assigned Readings: [Notes on R Shiny]({{page.base}}lectures/shiny-widgets.pdf), [Dynamic Graph Example](https://shiny.rstudio.com/gallery/kmeans-example.html), [Widgets Gallery](https://shiny.rstudio.com/gallery/widget-gallery.html)
 - [ ] Post & Exchange on Discussion Topic, 20 Points Max (See Below)
-- [ ] Complete & Submit [Lab 04](../labs/lab-04-instructions.html) (See Below)
+- [ ] Complete & Submit [Lab 04](../units/04-data-viz-dynamic/lab-04a-instructions.html) (See Below)
 - [ ] (Recommended) Videos
 - [ ] (Recommended) Familiarize Yourself with the [Final Dashboard Project](../labs/final-project-instructions.html)
 
@@ -1348,7 +1357,7 @@ Find a graph that violates one of these principles, or commits an equally egregi
 
 This use of [clowns](https://peltiertech.com/bad-bar-chart-practices-or-send-in-the-clowns/) in bar charts is one of my favorites. You might also enjoy [pizza charts](http://getdolphins.com/blog/the-worst-graphs-of-2017/) or [these gems](https://www.distractify.com/humor/2017/05/26/cszBB/hilariously-bad-graphs).
 
-<a class="uk-button uk-button-primary" href="{{page.canvas.yellowdig_url}}">YELLOWDIG</a>
+<a class="uk-button uk-button-primary" href="{{page.canvas.yellowdig_url}}">iCollege</a>
 
 <br>
 <br>
@@ -1362,15 +1371,17 @@ This use of [clowns](https://peltiertech.com/bad-bar-chart-practices-or-send-in-
 
 This lab is designed to introduce you to R Shiny by making last week's graphic interactive and dynamic.
 
-<a class="uk-button uk-button-default" onclick="window.open('../labs/lab-04-instructions.html')">LAB-04 Instructions</a>
+<a class="uk-button uk-button-default" onclick="window.open('../units/04-data-viz-dynamic/lab-04a-instructions.html')">LAB-04 Instructions</a>
 
 Click to download the lab template.
 
 **Note:** Rather than submitting a PDF or HTML file, please submit only the R or R Markdown file.  *Please ignore the boilerplate directions in this week's assignment*.
 
-<a class="uk-button uk-button-default" onclick="window.open('../labs/cpp-526_reformatted-labs/Lab-04-LastName.zip?raw=true')">LAB-04 Template</a>
+<a class="uk-button uk-button-default" 
+   onclick="window.open('https://raw.githubusercontent.com/{{ site.github.owner_name }}/{{ site.github.repository_name }}/main/units/04-data-viz-dynamic/lab-04a-template.rmd')">
+  LAB-04 Template</a>
 
-## Submit Solutions to Canvas
+## Submit Solutions to iCollege
 
 <a class="uk-button uk-button-primary" href="{{page.canvas.assignment_url}}">SUBMIT LAB</a>
 
@@ -1502,9 +1513,8 @@ The following checklist will help you stay organized in your fifth week.
 
 - [ ] Complete Assigned Readings: [Data Verbs in dplyr](http://ds4ps.org/dp4ss-textbook/p-070-data-verbs.html), [Data Recipes Using Pipes](http://ds4ps.org/dp4ss-textbook/p-072-data-recipes.html), [Efficient Use of Groups](http://ds4ps.org/dp4ss-textbook/p-073-group-structure.html)
 - [ ] Post & Exchange on Discussion Topic, 20 Points Max (See Below)
-- [ ] Complete & Submit [Lab 05](../labs/lab-05-instructions.html) (See Below)
+- [ ] Complete & Submit [Lab 05](../units/05-data-wrangling/lab-05-instructions.rmd) (See Below)
 - [ ] (Recommended) Videos
-- [ ] (Recommended) Begin Planning [Final Code-Through Project](../labs/code-through-assignment.html)
 
 <br>
 
@@ -1537,7 +1547,7 @@ You can find APIs through a Google search, or browse datasets on the [DS4PS Open
 
 *Note, you do not have to show how to use the API for the post, just identify what information is accessible and how it might be used.*
 
-<a class="uk-button uk-button-primary" href="{{page.canvas.yellowdig_url}}">YELLOWDIG</a>
+<a class="uk-button uk-button-primary" href="{{page.canvas.yellowdig_url}}">iCollege</a>
 
 <br>
 <br>
@@ -1553,13 +1563,15 @@ This lab offers practice analyzing traffic accident patterns using **dplyr** dat
 
 **Note:** *These data and techniques will be used for your final project in building an interactive dashboard.*
 
-<a class="uk-button uk-button-default" onclick="window.open('../labs/lab-05-instructions.html')">LAB-05 Instructions</a>
+<a class="uk-button uk-button-default" onclick="window.open('../units/05-data-wrangling/lab-05-instructions.html')">LAB-05 Instructions</a>
 
 Click to download the lab template. Modify and submit using the instructions.
 
-<a class="uk-button uk-button-default" onclick="window.open('../labs/cpp-526_reformatted-labs/Lab-05-LastName.zip?raw=true')">LAB-05 Template</a>
+<a class="uk-button uk-button-default" 
+   onclick="window.open('https://raw.githubusercontent.com/{{ site.github.owner_name }}/{{ site.github.repository_name }}/main/units/05-data-wrangling/lab-05-template.rmd')"> LAB-05 Template
+</a>
 
-## Submit Solutions to Canvas
+## Submit Solutions to iCollege
 
 <a class="uk-button uk-button-primary" href="{{page.canvas.assignment_url}}">SUBMIT LAB</a>
 
@@ -1607,7 +1619,7 @@ Read the notes on data joins:
 
 For reference:
 
-* [Manny Gimond's Page](https://mgimond.github.io/ES218/Week03c.html)  
+* [Manny Gimond's Page](https://mgimond.github.io/ES218/data_objects.html)  
 * [Data Joins in dplyr](https://stat545.com/join-cheatsheet.html)  
 
 <br>
@@ -1645,8 +1657,7 @@ The following checklist will help you stay organized in your sixth week.
 
 - [ ] Complete Assigned Readings: [Merging Data](http://ds4ps.org/dp4ss-textbook/p-076-merging-data.html)
 - [ ] Post & Exchange on Discussion Topic, 20 Points Max (See Below)
-- [ ] Complete & Submit [Lab 06](../labs/lab-06-instructions.html) (See Below)
-- [ ] (Recommended) Begin [Final Code-Through Project](../labs/code-through-assignment.html)
+- [ ] Complete & Submit [Lab 06](../units/06-data-joins/lab-06-instructions.rmd) (See Below)
 - [ ] (Recommended) Begin [Final Dashboard Project](../labs/final-project-instructions.html)
 
 <br>
@@ -1704,7 +1715,7 @@ For this week, read about how [GitHub has evolved to support government](https:/
 
 Do you think open source frameworks would help open the black box and make government more accessible? Would government become more accessible, or alienate regular citizens that are not computer scientists? Would it make influence from special interests more transparent, or would it make it easier for them to hijack the process of shaping local laws?
 
-<a class="uk-button uk-button-primary" href="{{page.canvas.yellowdig_url}}">YELLOWDIG</a>
+<a class="uk-button uk-button-primary" href="{{page.canvas.yellowdig_url}}">iCollege</a>
 
 <br>
 <br>
@@ -1718,13 +1729,15 @@ Do you think open source frameworks would help open the black box and make gover
 
 This lab is designed to introduce you to primary data join functions in R.
 
-<a class="uk-button uk-button-default" onclick="window.open('../labs/lab-06-instructions.html')">LAB-06 Instructions</a>
+<a class="uk-button uk-button-default" onclick="window.open('../units/06-data-joins/lab-06-instructions.html')">LAB-06 Instructions</a>
 
 Click to download the lab template. Modify and submit using the instructions.
 
-<a class="uk-button uk-button-default" onclick="window.open('../labs/cpp-526_reformatted-labs/Lab-06-LastName.zip?raw=true')">LAB-06 Template</a>
+<a class="uk-button uk-button-default" 
+   onclick="window.open('https://raw.githubusercontent.com/{{ site.github.owner_name }}/{{ site.github.repository_name }}/main/units/06-data-joins/lab-06-template.rmd')"> LAB-06 Template
+</a>
 
-## Submit Solutions to Canvas
+## Submit Solutions to iCollege
 
 <a class="uk-button uk-button-primary" href="{{page.canvas.assignment_url}}">SUBMIT LAB</a>
 
@@ -1762,8 +1775,7 @@ Click to download the lab template. Modify and submit using the instructions.
 
 The following checklist will help you stay organized for your final week.
 
-- [ ] Finalize & Submit Your [Final Code-Through Project](../labs/code-through-assignment.html)
-- [ ] Finalize & Submit Your [Final Dashboard Project](../labs/final-project-instructions.html)
+- [ ] Finalize & Submit Your [Final Dashboard Project](../units/07-dashboards/lab-07-instructions.html)
 - [ ] (Recommended) Submit a Course Evaluation
 
 <br>
@@ -1772,51 +1784,20 @@ The following checklist will help you stay organized for your final week.
 
 <br>
 
-## Code-Through
-
-Since you are sharing your code-through with your classmates on Yellowdig, it will serve as your discussion topic this week.
-
-If you send me your RMD and HTML files via email, I will post them to GitHub and create a link for you if you would like to share a URL instead of a file.
-
-<a class="uk-button uk-button-default" onclick="window.open('../labs/code-through-assignment.html')">Code-Through Instructions</a>
-
-Download the recommended template for your code-through with the below link.
-
-**Note:** *This is one of many possible layouts; modify appropriately.*
-
-<a class="uk-button uk-button-default" onclick="window.open('../labs/cpp-526_reformatted-projects/cpp-526-CodeThrough-LastName.zip?raw=true')">Base Code-Through Template</a>
-
-## Submit to Canvas
-
-<a class="uk-button uk-button-primary" href="{{page.canvas.assignment_url}}">SUBMIT CODE-THROUGH</a>
-
-## Post on Yellowdig
-
-<a class="uk-button uk-button-primary" href="{{page.canvas.yellowdig_url}}">YELLOWDIG</a>
-
-<br>
-<br>
-
-*** { @unit = "{{page.final-project.due-date}}", @title = "Final Dashboard Project", @assignment, @foldout  }
-
-<br>
-
 ## Create a Data Dashboard in R
 
 Working with the crash data from Lab-05, you will extend the work you began in Lab-04 by building on a dynamic data dashboard that will be used to explore and reveal insights in Tempe crash data.
 
-<a class="uk-button uk-button-default" onclick="window.open('../labs/final-project-instructions.html')">Final Project Instructions</a>
+<a class="uk-button uk-button-default" onclick="window.open('../units/07-dashboards/lab-07-instructions.html')">Final Project Instructions</a>
 
-The following link downloads two templates:
+The following link takes you to the Lab Templates page where you can downlaod the following items:
 
-* The entire dashboard, including all tabs
-* A one-tab dashboard with helpful hints
+* Two flexdash demos that show how to setup a one-tab dashboard using row and column formatting.
+* The final project dashbaord template with multiple working tabs, an "about" tab, and a data tab.  
 
-We recommended creating new tabs independently, then incorporating them into the final dashboard.
+<a class="uk-button uk-button-default" onclick="window.open('../templates')">Final Project Templates</a>
 
-<a class="uk-button uk-button-default" onclick="window.open('../labs/cpp-526_reformatted-projects/cpp-526-DashboardTemplates.zip?raw=true')">Final Project Templates</a>
-
-## Submit to Canvas
+## Submit to iCollege
 
 <a class="uk-button uk-button-primary" href="{{page.canvas.assignment_url}}">SUBMIT DASHBOARD</a>
 
