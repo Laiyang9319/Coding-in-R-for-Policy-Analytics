@@ -5,8 +5,9 @@ title: Schedule
 base: 'https://github.com/Watts-College/cpp-526-fall-2021/raw/main/'
 
 canvas:
-  assignment_url: 'https://canvas.asu.edu/courses/92494/assignments'
-  yellowdig_url: 'https://canvas.asu.edu/courses/92494/assignments/2358903'
+  assignment_url: 'https://gastate.view.usg.edu/d2l/lms/dropbox/admin/folders_manage.d2l?ou=2822294'
+  yellowdig_url: 'https://gastate.view.usg.edu/d2l/le/2822294/discussions/List'
+  templates_url: 'https://gastate.view.usg.edu/d2l/home/2822294'
 
 lab-due-dates:
   lab-01: 'SUN June 11'
@@ -25,8 +26,6 @@ discussion-dates:
   topic-05: 'FRI July 7'
   topic-06: 'FRI July 14'
 
-code-through:
-  due-date: 'FRI July 21'
 
 final-project:
   due-date: 'MON July 24'
@@ -785,7 +784,7 @@ This lab is designed to introduce you to basic functions that explore datasets a
 Click to download the lab template. Modify and submit using the instructions.
 
 <a class="uk-button uk-button-default" 
-   onclick="window.open('https://raw.githubusercontent.com/{{ site.github.owner_name }}/{{ site.github.repository_name }}/main/units/01-building-blocks-of-r/lab-01-template.rmd')">
+   onclick="window.open('https://raw.githubusercontent.com/{{ site.github.owner_name }}/{{ site.github.repository_name }}/main/labs/FlexdashboardRowOrientation.Rmd')">
    LAB-01 Template
 </a>
 
