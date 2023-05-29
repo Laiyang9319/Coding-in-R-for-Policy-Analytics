@@ -363,7 +363,7 @@ We are going to throw a lot at you, but also provide a lot of support. Over thes
 If you find something confusing, let us know (likely others will find it confusing as well).
 
 * Schedule a Zoom call with your instructor and screen share to walk through issues
-* Post a question to the [course discussion board](https://watts-college.github.io/cpp-526-fall-2021/help/)
+* Post a question to the [course discussion board](https://laiyang9319.github.io/Coding-in-R-for-Policy-Analytics/help/)
 * Request a walk-through and your instructor will provide examples and steps
 
 As a general rule of thumb, if you are stuck on the math or code for a problem, need clarification about what the question is asking, want to make sure you understand a formula, or are having similar issues then the help discussion page is the easiest and quickest way to get help. If you are confused about concepts or having a hard time even formulating your question, then virtual office hours are your best option.
@@ -414,10 +414,10 @@ b1 = cov(x,y) / var(x)
 
 The following checklist will help you organize and prepare for success in this course.
 
-- [ ] [Read the Syllabus](https://watts-college.github.io/cpp-526-fall-2022/)
+- [ ] [Read the Syllabus](https://laiyang9319.github.io/Coding-in-R-for-Policy-Analytics/)
 - [ ] [Install R](https://cran.rstudio.com/) and [R Studio Desktop](https://www.rstudio.com/products/rstudio/download/)
 - [ ] [Sign-Up for a GitHub Account](https://github.com/join)
-- [ ] Introduce Yourself on [YellowDig](https://canvas.asu.edu/courses/54986/assignments/1306428) (See Below)
+- [ ] Introduce Yourself on [iCollege](https://gastate.view.usg.edu/d2l/home/2822294) (See Below)
 - [ ] (Recommended) Skim Readings
 - [ ] (Recommended) Videos
 
@@ -429,13 +429,13 @@ The following checklist will help you organize and prepare for success in this c
 
 ## Introduce Yourself to the Class
 
-We will be using a discussion board called **YellowDig** for this course. Introduce yourself to the class:
+We will be using a discussion board called **iCollege** for this course. Introduce yourself to the class:
 
 1. A little about yourself
 2. Your previous experience with data analytics
 3. One thing you hope to do with your new skills in data analytics
 
-<a class="uk-button uk-button-primary" href="{{page.canvas.yellowdig_url}}">Post to YellowDig</a>
+<a class="uk-button uk-button-primary" href="{{page.canvas.yellowdig_url}}">Post to iCollege</a>
 
 <br>
 <br>
@@ -729,7 +729,7 @@ The following checklist will help you stay organized in your first week.
 
 - [ ] Complete Assigned Readings: [Assignment](http://ds4ps.org/dp4ss-textbook/ch-033-calculator.html), [Functions](http://ds4ps.org/dp4ss-textbook/ch-040-functions.html), & [Vectors](http://ds4ps.org/dp4ss-textbook/ch-050-vectors.html)
 - [ ] Post & Exchange on Discussion Topic, Maximum 20 Points (See Below)
-- [ ] Complete & Submit [Lab 01](../labs/lab-01-instructions.html) (See Below)
+- [ ] Complete & Submit [Lab 01](../units/01-building-blocks-of-r/lab-01-instructions.html) (See Below)
 - [ ] (Recommended) Videos
 
 <br>
@@ -780,11 +780,14 @@ You can earn up to 20 points a week, and points reset on Fridays. You need to ea
 
 This lab is designed to introduce you to basic functions that explore datasets and variables.
 
-<a class="uk-button uk-button-default" onclick="window.open('../labs/lab-01-instructions.html')">LAB-01 Instructions</a>
+<a class="uk-button uk-button-default" onclick="window.open('../units/01-building-blocks-of-r/lab-01-instructions.html')">LAB-01 Instructions</a>
 
 Click to download the lab template. Modify and submit using the instructions.
 
-<a class="uk-button uk-button-default" onclick="window.open('../labs/cpp-526_reformatted-labs/Lab-01-LastName.zip')">LAB-01 Template</a>
+<a class="uk-button uk-button-default" 
+   onclick="window.open('https://raw.githubusercontent.com/{{ site.github.owner_name }}/{{ site.github.repository_name }}/main/units/01-building-blocks-of-r/lab-01-template.rmd')">
+   LAB-01 Template
+</a>
 
 ## Submit Solutions to Canvas
 
