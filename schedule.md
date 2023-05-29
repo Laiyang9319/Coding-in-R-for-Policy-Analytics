@@ -480,7 +480,7 @@ Once you have completed this unit, you will be able to:
 ## Lab Assignment
 
 Lab-01 is your first opportunity to combine human language and R code in R Markdown. You will practice using tax parcel data from Syracuse, NY (USA), including:
-
+site.github.owner_name
 * Summarizing dataset characteristics, e.g. dimensions
 * Use arithmetic functions to summarize and average data
 * Determine the number of occurrences of qualitative data
@@ -784,9 +784,10 @@ This lab is designed to introduce you to basic functions that explore datasets a
 Click to download the lab template. Modify and submit using the instructions.
 
 <a class="uk-button uk-button-default" 
-   onclick="window.open('https://raw.githubusercontent.com/{{ site.github.owner_name }}/{{ site.github.repository_name }}/main/units/01-building-blocks-of-r/lab-01-template.rmd')">
+   onclick="window.open('https://raw.githubusercontent.com/{{ site.github.owner_name }}/{{ site.github.repository_name }}/main/units/01-building-blocks-of-r/lab-01-template.Rmd')">
    LAB-01 Template
 </a>
+
 
 ## Submit Solutions to Canvas
 
