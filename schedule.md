@@ -789,7 +789,7 @@ Click to download the lab template. Modify and submit using the instructions.
 </a>
 
 
-## Submit Solutions to Canvas
+## Submit Solutions to iCollege
 
 <a class="uk-button uk-button-primary" href="{{page.canvas.assignment_url}}">SUBMIT LAB</a>
 
