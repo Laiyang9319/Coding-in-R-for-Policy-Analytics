@@ -10,25 +10,25 @@ canvas:
   templates_url: 'https://gastate.view.usg.edu/d2l/home/2822294'
 
 lab-due-dates:
-  lab-01: 'SUN June 11'
-  lab-02: 'SUN June 18'
-  lab-03: 'SUN Jun 25'
-  lab-04: 'SUN July 2'
-  lab-05: 'SUN July 9'
-  lab-06: 'SUN July 16'
+  lab-01: 'SUN June 9'
+  lab-02: 'SUN June 16'
+  lab-03: 'SUN Jun 23'
+  lab-04: 'SUN Jun 30'
+  lab-05: 'SUN July 7'
+  lab-06: 'SUN July 14'
 
 discussion-dates:
-  topic-00: 'Due WED June 7'
-  topic-01: 'FRI June 9'
-  topic-02: 'FRI June 16'
-  topic-03: 'FRI June 23'
-  topic-04: 'FRI June 30'
-  topic-05: 'FRI July 7'
-  topic-06: 'FRI July 14'
+  topic-00: 'Due WED June 5'
+  topic-01: 'FRI June 7'
+  topic-02: 'FRI June 14'
+  topic-03: 'FRI June 21'
+  topic-04: 'FRI June 28'
+  topic-05: 'FRI July 5'
+  topic-06: 'FRI July 12'
 
 
 final-project:
-  due-date: 'MON July 24'
+  due-date: 'MON July 22'
 
 ---
 
