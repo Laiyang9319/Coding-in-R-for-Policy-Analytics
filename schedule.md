@@ -5,9 +5,9 @@ title: Schedule
 base: 'https://github.com/Watts-College/cpp-526-fall-2021/raw/main/'
 
 canvas:
-  assignment_url: 'https://gastate.view.usg.edu/d2l/lms/dropbox/admin/folders_manage.d2l?ou=2822294'
-  yellowdig_url: 'https://gastate.view.usg.edu/d2l/le/2822294/discussions/List'
-  templates_url: 'https://gastate.view.usg.edu/d2l/home/2822294'
+  assignment_url: 'https://gastate.view.usg.edu/d2l/lms/dropbox/admin/folders_manage.d2l?ou=3075218'
+  yellowdig_url: 'https://gastate.view.usg.edu/d2l/le/3075218/discussions/List'
+  templates_url: 'https://gastate.view.usg.edu/d2l/home/3075218'
 
 lab-due-dates:
   lab-01: 'SUN June 9'
