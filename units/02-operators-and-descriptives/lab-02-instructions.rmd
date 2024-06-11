@@ -19,7 +19,6 @@ library( dplyr )
 library( pander )
 library( geojsonio )
 library( sp )
-library( rgdal )
 ```
 
 
@@ -165,7 +164,6 @@ You will need the following packages for this lab:
 ```{r, eval=F}
 install.packages( "geojsonio" )
 install.packages( "sp" )
-install.packages( "rgdal" )
 ```
 
 NOTE: do not include include install package commands in your RMD chunks. Trying to install packages while knitting can cause errors. 
@@ -173,7 +171,6 @@ NOTE: do not include include install package commands in your RMD chunks. Trying
 ```{r, eval=F}
 library( geojsonio )
 library( sp )
-library( rgdal )
 ```
 
 Load the map file:
